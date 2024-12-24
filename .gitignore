@@ -2,3 +2,4 @@ __pycache__/
 *.pyc
 token_revival.py
 multi_alert.py
+env.py
